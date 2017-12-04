@@ -1,5 +1,5 @@
 {
-  "name": "hapi-qs",
+  "name": "@soxhub/hapi-qs",
   "version": "2.0.0",
   "description": "Hapi plugin to bring back qs support",
   "main": "index.js",
